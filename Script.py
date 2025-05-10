@@ -244,9 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b>⚙️ sɪᴢᴇ : {file_size}</b> 
+    CAPTION = CAPTION = f"""<b>📁 FILENAME :</b> @McMovies - <code>{{file_name}}</code>
+    
+<b>⚙️ SIZE :</b> <code>{{file_size}}</code> 
 
     Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/McMoviesKA)</b>"""
     
